@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: rgba(241, 238, 17, 0.849);
+}
+
+.form{
+    width: 500px;
+    height: 600px;
+    border: 10px solid white;
+    margin: 0 auto;
+    position: relative;
+    top: 10%;
+    margin-top: 35px;
+    background-color: orange;
+}
+
+.form_text{
+    background-color: orange;
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 5px;
+    font-weight: bolder;
+}
+
+.box{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 53.5%;
+}
+
+
+.text{
+    display: block;
+    position: relative;
+    top: 29.5%;
+    left: 20.5%;
+    background-color: orange ;
+}
+
+.text_id{
+    display: block;
+    position: absolute;
+    top: 29.5%;
+    left: 20.5%;
+    background-color: orange ;
+}
+
+.text_email{
+    display: block;
+    position: absolute;
+    top: 39.5%;
+    left: 20.5%;
+    background-color: orange ;
+}
+
+.text_pass{
+    display: block;
+    position: absolute;
+    top: 49.5%;
+    left: 20.5%;
+    background-color: orange ;
+}
+
+.text_no{
+    display: block;
+    position: absolute;
+    top: 59.5%;
+    left: 20.5%;
+    background-color: orange ;
+}
+
+.id{
+    position:absolute;
+    top: 30%;
+}
+
+.email{
+    position:absolute;
+    top: 40%;
+}
+
+.password{
+    position:absolute;
+    top: 50%;
+}
+
+.number{
+    position:absolute;
+    top: 60%;
+}
